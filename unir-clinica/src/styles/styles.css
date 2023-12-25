@@ -1,0 +1,23 @@
+@import './customNav';
+
+* {
+    margin:0;
+    padding:0px;
+  }
+
+/* Estilo general en modo oscuro */
+body {
+    background-color: #fff;
+    color: #1a1a1a;
+    font-family: 'Arial', sans-serif;
+}
+
+.header-footer {
+    background-color: #222;
+    padding: 10px;
+    text-align: center;
+}
+
+.header-footer-text {
+    color: #f0e68c;
+}

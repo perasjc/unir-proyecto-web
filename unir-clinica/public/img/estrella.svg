@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" width="25" height="25">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #000000 } 
+	</style>
+	<g id="side menu">
+		<g id="estrella">
+			<path id="estrella" class="shp0" d="M19.467,23.316,12,17.828,4.533,23.316,7.4,14.453-.063,9H9.151L12,.122,14.849,9h9.213L16.6,14.453Z" />
+		</g>
+	</g>
+</svg>
